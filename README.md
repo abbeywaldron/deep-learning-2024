@@ -1,4 +1,4 @@
-# practical-machine-learning-2023
+# deep-learning-2024
 
 
 # some basic linux commands
@@ -25,11 +25,11 @@ The first time you want to run you need to get the code from github.  You can st
 
 On this page click on the green "code" button to get the repository address then do:
 
-`git clone https://github.com/abbeywaldron/practical-machine-learning-2023.git`
+`git clone https://github.com/abbeywaldron/deep-learning-2024.git`
 
 Now you can change into the directory and look around to check you successfully got the files:
 
-`cd practical-machine-learning-2023`
+`cd deep-learning-2024`
 
 `ls`
 

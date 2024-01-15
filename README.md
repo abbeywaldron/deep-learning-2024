@@ -1,6 +1,8 @@
 # deep-learning-2024
 
 
+
+
 # some basic linux commands
 
 `ls` - show the contents of the current directory

@@ -44,3 +44,7 @@ Remember you can use tab completion!  Now we can launch the TensorFlow environme
 IMPORTANT TIP: rename your notebooks when you start running them so that if you pull from the git repository later they have no chance of being over-written.
 
 After you have checked out the code you only need to run the last two commands, so if you come back tomorrow and want to work on the same thing, just run the last two commands.
+
+To update your repository to get the new exercises each week, first remember to rename and save all your files!  Then do:
+
+`git pull`

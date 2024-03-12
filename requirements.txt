@@ -2,3 +2,4 @@ tensorflow==2.11
 matplotlib
 numpy
 pydataset
+pandas
